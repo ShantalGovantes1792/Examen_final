@@ -1,0 +1,57 @@
+
+body{
+	font-family: 'Open Sans', sans-serif;
+/*	font-family: 'Dosis', sans-serif;*/
+}
+.inline-block{
+	display: inline-block; 
+}
+.fondo-white{
+	background-color: white;
+}
+.boton-menu{
+	display: inline-block;
+	color: black;
+	background: white;
+	padding: 10px;
+	}
+.boton-menu:hover{
+	background:#0dc0c0;
+	color: white;
+}
+.load{
+	display: inline-block;
+	color: white;
+	background: #011C5D;
+	padding: 8px;
+	width: 120px;
+	height: 50px;
+}
+a{
+	text-decoration: none;
+}
+.fondo-call{
+	background-image: url(../img/background/city.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	height: 400px;
+}
+
+.call{
+	display: inline-block;
+	color: white;
+	background: #011C5D;
+	padding: 8px;
+	width: 120px;
+	height: 50px;
+}
+.fondo-footer{
+	background-color: #424242;
+}
+.pantalla-gris2{
+	background-color: rgba(36, 35, 35, 0.7);
+ 	}
+.dimension{
+	height: 400px;
+}
